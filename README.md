@@ -18,8 +18,8 @@
 ## BINAR ACADEMY
 1. [Binar - Materi](https://github.com/ariefhk/FSW-Binar-Academy)
 2. [Binar - Challenge 1](https://github.com/ariefhk/FSW-Challenge-1)
-3. [Binar - Challenge 1](https://github.com/ariefhk/FSW-Challenge-2)
-4. [Binar - Challenge 1](https://github.com/ariefhk/FSW-Challenge-3)
+3. [Binar - Challenge 2](https://github.com/ariefhk/FSW-Challenge-2)
+4. [Binar - Challenge 3](https://github.com/ariefhk/FSW-Challenge-3)
 5. [Binar Challenge 1-Legacy](https://github.com/ariefhk/FSW-Chapter-1)
 
 ## SKILVUL
